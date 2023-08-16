@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Kaan Erçakmakçı</h1>
+<h3 align="center">I am a seasoned hardware expert with 6 years of experience. I excel in swift issue resolution and prioritize customer satisfaction. With my proficiency across a wide product spectrum, I aspire to contribute value to your technical support team and lead in technical support excellence.</h3>
 
-<!--
-**kaanercc/kaanercc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaanercc" alt="kaanercc" /></a> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Algorithm, Python**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **technical problems**
+
+- 📫 How to reach me **kaaniletisim@proton.me**
+
+- 📄 Know about my experiences [https://kaanercc.carrd.co/](https://kaanercc.carrd.co/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
